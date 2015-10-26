@@ -1,24 +1,12 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+* Activité
 
 
-Welcome to your Rails project on Cloud9 IDE!
+À partir du code du site Castor, créez une deuxième page :
 
-To get started, just do the following:
+- ajoutez une nouvelle fonction dans votre contrôleur
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://ruby-on-rails-discourse-simplon-ouskah.c9.io/).
+- créez le fichier HTML associé dans app/views/pages/
 
-Happy coding!
-The Cloud9 IDE team
+- ajoutez une ligne pour la route dans config/routes.rb
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+- contemplez votre nouvelle page sur votre navigateur
