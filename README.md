@@ -1,4 +1,5 @@
-_Activité_
+# Activité
+------------
 
 
 À partir du code du site Castor, créez une deuxième page :
