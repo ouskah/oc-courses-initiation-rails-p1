@@ -1,6 +1,7 @@
 # Activité
 ------------
 
+https://openclassrooms.com/courses/initiez-vous-a-ruby-on-rails/mise-en-pratique-21
 
 À partir du code du site Castor, créez une deuxième page :
 
